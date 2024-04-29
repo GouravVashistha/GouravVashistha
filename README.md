@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Banking Project**
+- 🔭 I’m currently working on **Capgemini (Banking Project)**
 
 - 🌱 I’m currently learning **Spring Boot Microservice's**
 
