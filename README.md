@@ -6,7 +6,7 @@
 
 - 👨‍💻 My Portfolio website [https://gouravvashistha.github.io/Gourav_Vashistha](https://gouravvashistha.github.io/Gourav_Vashistha)
   
-- 🔭 I’m currently working on **Infinite Computer Solution**
+- 🔭 I’m currently working on **EY**
 
 - 🌱 I’m currently learning **Spring Boot Microservice's**
 
