@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=GouravVashistha&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 <h1 align="center">Hi 👋, I'm Gourav Vashistha</h1>
 
 <h3 align="center">
@@ -129,3 +132,19 @@ https://gouravvashistha.github.io/Gourav_Vashistha
 ## ⚡ Current Focus
 
 `Microservices` • `System Design` • `Kubernetes` • `DevOps` • `DSA`
+
+
+<p align="left">
+<a href="https://leetcode.com/gvashistha4/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/gvashistha4">
+<img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+</p>
+
+---
+## 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=GouravVashistha&theme=tokyonight&no-frame=true&row=1)
