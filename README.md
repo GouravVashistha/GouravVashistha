@@ -1,30 +1,88 @@
 <h1 align="center">Hi 👋, I'm Gourav Vashistha</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">Java Full Stack Developer | Spring Boot | Microservices | React | DevOps Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Siddharth-Richhariya&label=Profile%20views&color=0e75b6&style=flat" alt="Siddharth-Richhariya" /> </p>
+---
 
+## 🚀 About Me
 
-- 👨‍💻 My Portfolio website [https://gouravvashistha.github.io/Gourav_Vashistha](https://gouravvashistha.github.io/Gourav_Vashistha)
-  
-- 🔭 I’m currently working on **EY**
+- 💼 Software Engineer with **3.8+ years of experience**
+- 🔭 Currently working on **Java Spring Boot & Microservices applications**
+- 🌱 Learning **System Design, Kubernetes, AWS & Advanced Microservices**
+- 👨‍💻 Passionate about building scalable backend systems and modern web applications
+- 💬 Ask me about:
+  - Java
+  - Spring Boot
+  - Microservices
+  - REST APIs
+  - ReactJS
+  - Docker
+  - Jenkins
+  - SQL & MongoDB
 
-- 🌱 I’m currently learning **Spring Boot Microservice's**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/GouravVashistha](https://github.com/GouravVashistha)
+## 🌐 Portfolio & Profiles
 
-- 💬 Ask me about **Java, React, html ,CSS, JavaScript,Angular**
+- 🌍 Portfolio:  
+  [Gourav Portfolio](https://gouravvashistha.github.io/Gourav_Vashistha)
 
-- 📫 How to reach me **gvashistha4@gmail.com**
+- 💻 GitHub:  
+  [github.com/GouravVashistha](https://github.com/GouravVashistha)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gourav-vashistha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gourav-vashistha/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/gvashistha4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/gvashistha4" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/gvashistha4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/gvashistha4/" height="30" width="40" /></a>
+- 🔗 LinkedIn:  
+  [linkedin.com/in/gourav-vashistha](https://www.linkedin.com/in/gourav-vashistha)
+
+- 🧠 LeetCode:  
+  [leetcode.com/gvashistha4](https://leetcode.com/gvashistha4)
+
+- 🟨 HackerRank:  
+  [hackerrank.com/gvashistha4](https://www.hackerrank.com/profile/gvashistha4)
+
+- 📫 Email:  
+  **gvashistha4@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GouravVashistha&show_icons=true&theme=tokyonight" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gouravvashistha&show_icons=true&locale=en&layout=compact" alt="gouravvashistha" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GouravVashistha&theme=tokyonight" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouravvashistha&show_icons=true&locale=en" alt="gouravvashistha" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouravVashistha&layout=compact&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gouravvashistha&" alt="gouravvashistha" /></p>
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving backend challenges, optimizing APIs, and learning scalable system architecture.
