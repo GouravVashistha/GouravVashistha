@@ -1,6 +1,3 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=GouravVashistha&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 <h1 align="center">Hi 👋, I'm Gourav Vashistha</h1>
 
 <h3 align="center">
@@ -102,6 +99,14 @@ Building scalable backend systems, enterprise microservices & workflow automatio
 
 ---
 
+## 🏆 GitHub Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=GouravVashistha&theme=tokyonight&no-frame=true&row=1)
+
+## 🌌 3D Contribution Calendar
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GouravVashistha&theme=tokyonight)
+---
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -143,8 +148,3 @@ https://gouravvashistha.github.io/Gourav_Vashistha
 <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank"/>
 </a>
 </p>
-
----
-## 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=GouravVashistha&theme=tokyonight&no-frame=true&row=1)
