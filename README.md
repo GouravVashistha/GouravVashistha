@@ -12,7 +12,7 @@ Building scalable backend systems, enterprise microservices & workflow automatio
 
 ## 👨‍💻 About Me
 
-- 💼 3.8+ years of experience in Java Backend Development
+- 💼 4.5 years of experience in Java Backend Development
 - 🏢 Currently working at **EY**
 - 🚀 Worked with Fidelity Investments, American Express & Turbify
 - ⚙️ Specialized in Spring Boot, Microservices, REST APIs & Workflow Automation
